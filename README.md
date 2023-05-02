@@ -20,6 +20,8 @@ Building the USB networking utility:
 - Make sure dependencies such as CMake and SDL2 are installed
 - run `cmake .` and `make` in STMDoomComNetwork/
 
+Most of the directory structure is boilerplate; the doom-related code is located in BSP/STM32CubeIDE/CM7/Example/User/CM7/.
+
 
 ## Running
 
